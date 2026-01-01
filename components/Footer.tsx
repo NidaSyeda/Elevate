@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
               </div>
             </div>
             <p className="text-xs text-gray-500 max-w-xs mt-2">
-              Engineering autonomous growth ecosystems for high-velocity brands since 2021.
+              Engineering autonomous growth ecosystems for high-velocity brands since 2022.
             </p>
           </div>
           
